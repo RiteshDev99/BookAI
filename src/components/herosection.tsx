@@ -8,7 +8,7 @@ import Tutorial from "./tutorial";
 const HeroSection = () => {
     return (
         <>
-            <div className="h-[auto] w-[100%] bg-[#07172A] flex flex-col items-center gap-[5vh] pt-[5vh] ">
+            <div className="h-[auto] w-[100%] bg-[#07172A] flex flex-col items-center gap-[5vh] pt-[5vh] pb-[7vh] ">
                 <OverView />
                 <AuthenticationSec />
                 <Endpoints />
